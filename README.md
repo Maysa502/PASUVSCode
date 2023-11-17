@@ -2,7 +2,14 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 
-!["Logo Ubuntu"](logoubunto.png)
+<img src=ubuntu.png width=100 heigth=100>
+<img src=vbox.png width=100 heigth=100>
+<img src=vscode.png width=100 heigth=100>
+<img src=git.png width=100 heigth=100>
+<img src=ssh.png width=100 heigth=100>
+<img src=lingc.png width=100 heigth=100>
+<img src=cockpit.png width=100 heigth=100>
+
 
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade
     
