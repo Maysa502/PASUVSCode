@@ -1,7 +1,7 @@
 # Preparação de ambiente para Servidor Ubuntu acessando via Visual Studio Code
 
 ## Veremos abaixo as ferramentas utilizadas
-<p aling="center">
+<p align="center">
 <img src=ubuntu.png width=100 heigth=100><img src=vbox.png width=100 heigth=100><img src=vscode.png width=100 heigth=100><img src=git.png width=100 heigth=100><img src=ssh.png width=100 heigth=100><img src=lingc.png width=100 heigth=100><img src=cockpit.png width=100 heigth=100>
 </p>
 
