@@ -24,3 +24,10 @@ O Ubuntu Server é um sistema operacional open source específico para servidore
 Para fazer o download click no link abaixo:
     
 <a href="https://ubuntu.com/download/server">Ubuntu Server 22.04> </a>
+
+### Virtual Box
+VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.
+Assim, o software emula um computador completo, incluindo sistemas operacionais e aplicativos.
+Para fazer o download click no link abaixo:
+
+<a href="https://www.virtualbox.org/wiki/Downloads">Virtual Box</a>
